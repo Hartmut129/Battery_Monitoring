@@ -1,4 +1,4 @@
 
 [submodule "/USB"]
 	path = /USB
-	url = https://github.com/Hartmut129/USB-STM32-CDC.git
+	url = https://github.com/Hartmut129/USB-STM32-CDC
