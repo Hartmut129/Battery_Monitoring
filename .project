@@ -30,11 +30,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>USB_2</name>
-			<type>2</type>
-			<location>C:/Users/Laptop/Meine Ablage/Library/USB</location>
-		</link>
-	</linkedResources>
 </projectDescription>

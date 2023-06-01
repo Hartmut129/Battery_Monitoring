@@ -35,8 +35,8 @@ extern "C" {
 extern I2C_HandleTypeDef hi2c1;
 
 /* USER CODE BEGIN Private defines */
-
-
+#define DIGIPOTI_ADDRESS 1
+#define EEPROM_ADDRESS 2
 /* USER CODE END Private defines */
 
 void MX_I2C1_Init(void);
